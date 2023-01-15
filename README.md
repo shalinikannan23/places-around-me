@@ -176,6 +176,8 @@ hotel.html
 ![OUTPUT](./images/church.png)
 ![OUTPUT](./images/trends.png)
 ![OUTPUT](./images/park.png)
+![OUTPUT](./images/validator.png)
+
 
 ## Result:
 
